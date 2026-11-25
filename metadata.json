@@ -1,0 +1,6 @@
+{
+  "name": "ANIBEATS",
+  "description": "Baboucarr's personal corner on the internet. Anime. Rap. Beats. Cars. Travel. Built with love, not for a grade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

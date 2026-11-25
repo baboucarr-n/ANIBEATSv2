@@ -1,0 +1,1008 @@
+{
+  "animeWall": [
+    {
+      "id": "anime-1",
+      "rank": 1,
+      "title": "Attack on Titan",
+      "posterUrl": "/assets/anime/aot.jpg",
+      "genres": [
+        "action",
+        "shonen",
+        "ost"
+      ],
+      "genreLabel": "Action · OST Heavy",
+      "rating": "To be filled by me",
+      "year": "2013",
+      "why": "To be filled by me — personal slot ready in Admin Panel (official poster loaded for testing).",
+      "moods": [
+        "hype",
+        "workout"
+      ]
+    },
+    {
+      "id": "anime-2",
+      "rank": 2,
+      "title": "Jujutsu Kaisen",
+      "posterUrl": "/assets/anime/jjk.jpg",
+      "genres": [
+        "action",
+        "shonen"
+      ],
+      "genreLabel": "Action · Shonen",
+      "rating": "To be filled by me",
+      "year": "2020",
+      "why": "To be filled by me — replace title, rating, or story anytime in Admin.",
+      "moods": [
+        "hype",
+        "workout"
+      ]
+    },
+    {
+      "id": "anime-3",
+      "rank": 3,
+      "title": "Initial D 1st Stage",
+      "posterUrl": "/assets/anime/initiald.jpg",
+      "genres": [
+        "cars",
+        "action",
+        "ost"
+      ],
+      "genreLabel": "Car / Racing · OST Heavy",
+      "rating": "To be filled by me",
+      "year": "1998",
+      "why": "To be filled by me — touge night runs, Eurobeat energy, and pure car culture.",
+      "moods": [
+        "late-night",
+        "hype"
+      ]
+    },
+    {
+      "id": "anime-4",
+      "rank": 4,
+      "title": "Cyberpunk: Edgerunners",
+      "posterUrl": "/assets/anime/edgerunners.jpg",
+      "genres": [
+        "action",
+        "ost"
+      ],
+      "genreLabel": "Action · OST Heavy",
+      "rating": "To be filled by me",
+      "year": "2022",
+      "why": "To be filled by me — futuristic visuals and a soundtrack that stays with you.",
+      "moods": [
+        "late-night",
+        "sad"
+      ]
+    },
+    {
+      "id": "anime-5",
+      "rank": 5,
+      "title": "Solo Leveling",
+      "posterUrl": "/assets/anime/sololeveling.png",
+      "genres": [
+        "action",
+        "shonen"
+      ],
+      "genreLabel": "Action · Shonen",
+      "rating": "To be filled by me",
+      "year": "2024",
+      "why": "To be filled by me",
+      "moods": [
+        "hype",
+        "workout"
+      ]
+    },
+    {
+      "id": "anime-6",
+      "rank": 6,
+      "title": "Chainsaw Man",
+      "posterUrl": "/assets/anime/csm.png",
+      "genres": [
+        "action",
+        "shonen",
+        "ost"
+      ],
+      "genreLabel": "Action · OST Heavy",
+      "rating": "To be filled by me",
+      "year": "2022",
+      "why": "To be filled by me",
+      "moods": [
+        "hype",
+        "late-night"
+      ]
+    },
+    {
+      "id": "anime-7",
+      "rank": 7,
+      "title": "Your Name.",
+      "posterUrl": "/assets/anime/yourname.png",
+      "genres": [
+        "romance",
+        "ost"
+      ],
+      "genreLabel": "Romance · OST Heavy",
+      "rating": "To be filled by me",
+      "year": "2016",
+      "why": "To be filled by me",
+      "moods": [
+        "sad",
+        "chill"
+      ]
+    },
+    {
+      "id": "anime-8",
+      "rank": 8,
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "posterUrl": "/assets/anime/demonslayer.jpg",
+      "genres": [
+        "action",
+        "shonen"
+      ],
+      "genreLabel": "Action · Shonen",
+      "rating": "To be filled by me",
+      "year": "2019",
+      "why": "To be filled by me",
+      "moods": [
+        "hype",
+        "workout"
+      ]
+    },
+    {
+      "id": "anime-9",
+      "rank": 9,
+      "title": "Death Note",
+      "posterUrl": "/assets/anime/deathnote.jpg",
+      "genres": [
+        "ost"
+      ],
+      "genreLabel": "Thriller · OST Heavy",
+      "rating": "To be filled by me",
+      "year": "2006",
+      "why": "To be filled by me",
+      "moods": [
+        "late-night"
+      ]
+    },
+    {
+      "id": "anime-10",
+      "rank": 10,
+      "title": "Vinland Saga",
+      "posterUrl": "/assets/anime/vinlandsaga.jpg",
+      "genres": [
+        "action",
+        "shonen"
+      ],
+      "genreLabel": "Action · Drama",
+      "rating": "To be filled by me",
+      "year": "2019",
+      "why": "To be filled by me",
+      "moods": [
+        "sad",
+        "chill"
+      ]
+    }
+  ],
+  "currentlyWatching": {
+    "title": "Show In Progress — To be filled by me",
+    "currentEp": 12,
+    "totalEp": 24,
+    "note": "Update my current show & episode count directly from the Admin Panel."
+  },
+  "songOfTheWeek": {
+    "title": "Bling-Bang-Bang-Born (Test Track)",
+    "artist": "Creepy Nuts",
+    "spotifyUrl": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG",
+    "why": "Loaded as a verified test track — swap in your real Song of the Week link anytime from the Admin Panel."
+  },
+  "playlists": [
+    {
+      "id": "pl-1",
+      "title": "My Rap Rotation (Test: RapCaviar)",
+      "moodLabel": "Hype · Daily",
+      "description": "Verified test playlist — replace with your personal Spotify link in the Admin Panel.",
+      "spotifyUrl": "https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd",
+      "moods": [
+        "hype",
+        "workout"
+      ]
+    },
+    {
+      "id": "pl-2",
+      "title": "Anime OSTs That Hit Different (Test: Anime On Replay)",
+      "moodLabel": "Anime · Emotional",
+      "description": "Verified official Spotify Anime Hub playlist — swap with your custom playlist in Admin.",
+      "spotifyUrl": "https://open.spotify.com/playlist/37i9dQZF1DX0hAXqBDwvwI",
+      "moods": [
+        "hype",
+        "sad"
+      ]
+    },
+    {
+      "id": "pl-3",
+      "title": "Late Night Beats (Test: lofi beats)",
+      "moodLabel": "Chill · Late Night",
+      "description": "Verified chill instrumental rotation — swap with your personal Spotify link in Admin.",
+      "spotifyUrl": "https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn",
+      "moods": [
+        "chill",
+        "late-night",
+        "sad"
+      ]
+    },
+    {
+      "id": "pl-4",
+      "title": "Night Drive (Test: Retrowave // Outrun)",
+      "moodLabel": "Night Drive · Cars",
+      "description": "The bridge between Music and Cars — edit link & notes anytime in Admin.",
+      "spotifyUrl": "https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM",
+      "moods": [
+        "late-night",
+        "hype"
+      ]
+    }
+  ],
+  "cars": [
+    {
+      "id": "car-1",
+      "rank": 1,
+      "name": "Nissan Skyline GT-R (R34)",
+      "category": "jdm",
+      "categoryLabel": "JDM",
+      "imageUrl": "/assets/cars/skyline_gtr.jpg",
+      "why": "To be filled by me — JDM icon slot (edit name, photo, or personal story in Admin Panel).",
+      "moods": [
+        "late-night",
+        "hype"
+      ]
+    },
+    {
+      "id": "car-2",
+      "rank": 2,
+      "name": "Toyota GR Supra",
+      "category": "jdm",
+      "categoryLabel": "JDM",
+      "imageUrl": "/assets/cars/supra.png",
+      "why": "To be filled by me — pure coupe proportions and street presence.",
+      "moods": [
+        "hype",
+        "workout"
+      ]
+    },
+    {
+      "id": "car-3",
+      "rank": 3,
+      "name": "Mazda RX-7 (FD3S)",
+      "category": "classics",
+      "categoryLabel": "Classics · JDM",
+      "imageUrl": "/assets/cars/rx7.jpg",
+      "why": "To be filled by me — rotary icon straight out of mountain pass anime.",
+      "moods": [
+        "chill",
+        "late-night"
+      ]
+    },
+    {
+      "id": "car-4",
+      "rank": 4,
+      "name": "Dream Daily / Supercar — To be filled by me",
+      "category": "daily",
+      "categoryLabel": "Dream Daily",
+      "imageUrl": "/src/assets/images/anibeats_car_visual_1795278851586.jpg",
+      "why": "To be filled by me — add your exact dream daily or supercar from the Admin Panel.",
+      "moods": [
+        "chill",
+        "late-night"
+      ]
+    }
+  ],
+  "travelTrips": [
+    {
+      "id": "trip-1",
+      "rank": 1,
+      "country": "Japan",
+      "city": "Tokyo & Hakone",
+      "whyKey": "anime",
+      "whyLabel": "Anime Dream",
+      "whyText": "To be filled by me — walking Shibuya & Akihabara at night.",
+      "dreamActivity": "To be filled by me"
+    },
+    {
+      "id": "trip-2",
+      "rank": 2,
+      "country": "Germany",
+      "city": "Nürburgring & Stuttgart",
+      "whyKey": "cars",
+      "whyLabel": "Car Dream",
+      "whyText": "To be filled by me — pure automotive history.",
+      "dreamActivity": "To be filled by me"
+    },
+    {
+      "id": "trip-3",
+      "rank": 3,
+      "country": "USA",
+      "city": "New York / Atlanta",
+      "whyKey": "rap",
+      "whyLabel": "Rap / Music Dream",
+      "whyText": "To be filled by me — standing where the music came from.",
+      "dreamActivity": "To be filled by me"
+    },
+    {
+      "id": "trip-4",
+      "rank": 4,
+      "country": "UAE",
+      "city": "Dubai",
+      "whyKey": "cars",
+      "whyLabel": "Car Dream",
+      "whyText": "To be filled by me — supercars & skyline nights.",
+      "dreamActivity": "To be filled by me"
+    },
+    {
+      "id": "trip-5",
+      "rank": 5,
+      "country": "Destination #5",
+      "city": "To be filled by me",
+      "whyKey": "culture",
+      "whyLabel": "Culture / Food / Vibes",
+      "whyText": "To be filled by me",
+      "dreamActivity": "To be filled by me"
+    },
+    {
+      "id": "trip-6",
+      "rank": 6,
+      "country": "Destination #6",
+      "city": "To be filled by me",
+      "whyKey": "anime",
+      "whyLabel": "Anime Dream",
+      "whyText": "To be filled by me",
+      "dreamActivity": "To be filled by me"
+    },
+    {
+      "id": "trip-7",
+      "rank": 7,
+      "country": "Destination #7",
+      "city": "To be filled by me",
+      "whyKey": "rap",
+      "whyLabel": "Rap / Music Dream",
+      "whyText": "To be filled by me",
+      "dreamActivity": "To be filled by me"
+    },
+    {
+      "id": "trip-8",
+      "rank": 8,
+      "country": "Destination #8",
+      "city": "To be filled by me",
+      "whyKey": "culture",
+      "whyLabel": "Culture / Food / Vibes",
+      "whyText": "To be filled by me",
+      "dreamActivity": "To be filled by me"
+    },
+    {
+      "id": "trip-9",
+      "rank": 9,
+      "country": "Destination #9",
+      "city": "To be filled by me",
+      "whyKey": "cars",
+      "whyLabel": "Car Dream",
+      "whyText": "To be filled by me",
+      "dreamActivity": "To be filled by me"
+    },
+    {
+      "id": "trip-10",
+      "rank": 10,
+      "country": "Destination #10",
+      "city": "To be filled by me",
+      "whyKey": "culture",
+      "whyLabel": "Culture / Food / Vibes",
+      "whyText": "To be filled by me",
+      "dreamActivity": "To be filled by me"
+    }
+  ],
+  "visitedTravelIds": [],
+  "storyPersonalNote": "This isn’t a portfolio, a CV, or a page trying to sound corporate. It’s simply my personal corner on the internet — a vision board of what moves me and where I want to go in life.",
+  "journalEntries": [
+    {
+      "id": "entry-02",
+      "dateLabel": "Entry 02 · Dec 2026",
+      "title": "“Rebuilt ANIBEATS with Apple-grade clarity & a live Admin Studio”",
+      "added": "Ultra-clean monochrome design, official anime posters, live Spotify embed manager, and fluid spring motion.",
+      "why": "I wanted opening ANIBEATS to feel effortless, sharp, and personal — where content is the star."
+    },
+    {
+      "id": "entry-01",
+      "dateLabel": "Entry 01 · Nov 2026",
+      "title": "WEB1 Assignment 2 — Where It Started",
+      "added": "The first hobby site about Anime and Rap Music for Internet and Web Programming 1.",
+      "why": "Once I submitted it, I realized I wasn’t building it for a grade anymore — I was building it for me."
+    }
+  ],
+  "pollState": {
+    "votes": [
+      0,
+      0,
+      0
+    ],
+    "userChoice": null
+  },
+  "communityPlaylists": [],
+  "suggestions": [],
+  "weeklyMusts": [
+    {
+      "id": 1,
+      "title": "To be filled — Weekly MUST coming soon",
+      "creator": "To be filled by me",
+      "youtubeUrl": "",
+      "youtubeVideoId": "",
+      "whyThisWeek": "To be filled by me — my own words on why this is the one video you have to watch this week.",
+      "tag": "ANIME",
+      "moodTag": "",
+      "weekLabel": "Week 48 — 2026",
+      "isCurrent": true,
+      "createdAt": "2026-11-21T17:35:22.030Z"
+    }
+  ],
+  "animeUniverse": {
+    "collection": [
+      {
+        "id": "col-01",
+        "rank": 1,
+        "title": "Vinland Saga",
+        "posterUrl": "/assets/anime/vinlandsaga.jpg",
+        "genres": [
+          "Historical",
+          "Action",
+          "Adventure",
+          "Drama"
+        ],
+        "demographic": "Seinen",
+        "frontNote": "Thorfinn's story. Deep, about war and peace.",
+        "lifeLesson": "Revenge consumes you. True strength is forgiving and building a better future."
+      },
+      {
+        "id": "col-02",
+        "rank": 2,
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "posterUrl": "/assets/anime/fmab.jpg",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Drama"
+        ],
+        "demographic": "Shonen",
+        "frontNote": "Best story ever. Perfect ending.",
+        "lifeLesson": "Every choice has consequences. Nothing valuable comes without sacrifice."
+      },
+      {
+        "id": "col-03",
+        "rank": 3,
+        "title": "Attack on Titan",
+        "posterUrl": "/assets/anime/aot.jpg",
+        "genres": [
+          "Action",
+          "Dark Fantasy",
+          "Mystery",
+          "Drama"
+        ],
+        "demographic": "Shonen",
+        "frontNote": "Eren Yeager. What a plot twist.",
+        "lifeLesson": "Freedom without understanding others becomes another oppression."
+      },
+      {
+        "id": "col-04",
+        "rank": 4,
+        "title": "Bleach",
+        "posterUrl": "/assets/anime/bleach.png",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Supernatural",
+          "Fantasy"
+        ],
+        "demographic": "Shonen",
+        "frontNote": "Ichigo and Soul Society. Bankai!",
+        "lifeLesson": "Strength is protecting who matters and standing when others cannot."
+      },
+      {
+        "id": "col-05",
+        "rank": 5,
+        "title": "Naruto",
+        "posterUrl": "/assets/anime/naruto.jpg",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Drama"
+        ],
+        "demographic": "Shonen",
+        "frontNote": "My childhood. Believe it!",
+        "lifeLesson": "Circumstances don't define you. Perseverance + belief take you further."
+      },
+      {
+        "id": "col-06",
+        "rank": 6,
+        "title": "Demon Slayer",
+        "posterUrl": "/assets/anime/demonslayer.jpg",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Dark Fantasy"
+        ],
+        "demographic": "Shonen",
+        "frontNote": "Animation is insane. Tanjiro.",
+        "lifeLesson": "Never let suffering kill your humanity. Kindness survives darkness."
+      },
+      {
+        "id": "col-07",
+        "rank": 7,
+        "title": "Cyberpunk: Edgerunners",
+        "posterUrl": "/assets/anime/edgerunners.jpg",
+        "genres": [
+          "Sci-Fi",
+          "Action",
+          "Drama",
+          "Tragedy"
+        ],
+        "demographic": "Seinen",
+        "frontNote": "Short but sad. David and Lucy.",
+        "lifeLesson": "Ambition without balance destroys you. Don't lose yourself."
+      },
+      {
+        "id": "col-08",
+        "rank": 8,
+        "title": "Erased",
+        "posterUrl": "/assets/anime/erased.jpg",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Drama",
+          "Supernatural"
+        ],
+        "demographic": "Seinen",
+        "frontNote": "Time travel to save his friend. Emotional.",
+        "lifeLesson": "One small kindness can change a whole life."
+      },
+      {
+        "id": "col-09",
+        "rank": 9,
+        "title": "Terror in Resonance",
+        "posterUrl": "/assets/anime/terror.png",
+        "genres": [
+          "Psychological",
+          "Thriller",
+          "Mystery",
+          "Drama"
+        ],
+        "demographic": "Seinen",
+        "frontNote": "Two boys, bombs and classical music.",
+        "lifeLesson": "Behind every action is a story. Trauma leaves lasting wounds."
+      },
+      {
+        "id": "col-10",
+        "rank": 10,
+        "title": "Odd Taxi",
+        "posterUrl": "/assets/anime/oddtaxi.jpg",
+        "genres": [
+          "Mystery",
+          "Crime",
+          "Psychological",
+          "Thriller"
+        ],
+        "demographic": "Seinen",
+        "frontNote": "Walrus taxi driver. Mystery. Very underrated.",
+        "lifeLesson": "Everyone hides a story. Don't judge by what you see."
+      },
+      {
+        "id": "col-11",
+        "rank": 11,
+        "title": "Solo Leveling",
+        "posterUrl": "/assets/anime/sololeveling.png",
+        "genres": [
+          "Action",
+          "Fantasy",
+          "Adventure",
+          "Supernatural"
+        ],
+        "demographic": "Shonen",
+        "frontNote": "Arise! Jinwoo is too cool.",
+        "lifeLesson": "Growth needs consistency, discipline, facing the impossible."
+      }
+    ],
+    "watching": [
+      {
+        "id": "watch-01",
+        "title": "Monster",
+        "posterUrl": "/assets/anime/monster.jpg",
+        "genres": [
+          "Psychological",
+          "Mystery",
+          "Thriller",
+          "Crime"
+        ],
+        "demographic": "Seinen",
+        "note": "Psychological. Very smart. Johan is scary.",
+        "statusLabel": "Currently Watching. No final rating.",
+        "currentEp": 1,
+        "totalEp": 74
+      },
+      {
+        "id": "watch-02",
+        "title": "Steins;Gate",
+        "posterUrl": "/assets/anime/steinsgate.jpg",
+        "genres": [
+          "Sci-Fi",
+          "Psychological",
+          "Thriller",
+          "Drama"
+        ],
+        "demographic": "Seinen",
+        "note": "Time machine. El Psy Kongroo.",
+        "statusLabel": "Currently Watching. No final rating.",
+        "currentEp": 1,
+        "totalEp": 24
+      }
+    ],
+    "discovery": [
+      {
+        "id": "disc-01",
+        "title": "Hell's Paradise: Jigokuraku",
+        "posterUrl": "/assets/anime/hellsparadise.jpg",
+        "category": "Dark Fantasy",
+        "genres": [
+          "Dark Fantasy",
+          "Action",
+          "Adventure",
+          "Supernatural"
+        ],
+        "demographic": "Shonen",
+        "synopsis": "Condemned criminals hunt elixir on terrifying island.",
+        "whyOnList": "Survival + mystery + brutal combat.",
+        "watchlistStatus": "Candidate · Pending Confirmation"
+      },
+      {
+        "id": "disc-02",
+        "title": "Dororo",
+        "posterUrl": "/assets/anime/dororo.jpg",
+        "category": "Dark Fantasy",
+        "genres": [
+          "Historical",
+          "Action",
+          "Dark Fantasy"
+        ],
+        "demographic": "Shonen",
+        "synopsis": "Swordsman fights demons to reclaim stolen body parts.",
+        "whyOnList": "Deep character + humanity questions.",
+        "watchlistStatus": "Candidate · Pending Confirmation"
+      },
+      {
+        "id": "disc-03",
+        "title": "Dorohedoro",
+        "posterUrl": "/assets/anime/dorohedoro.jpg",
+        "category": "Dark Fantasy",
+        "genres": [
+          "Dark Fantasy",
+          "Action",
+          "Mystery",
+          "Horror"
+        ],
+        "demographic": "Seinen",
+        "synopsis": "Reptile-head man hunts sorcerer who changed him.",
+        "whyOnList": "Weird world, distinct art, unpredictable.",
+        "watchlistStatus": "Candidate · Pending Confirmation"
+      },
+      {
+        "id": "disc-04",
+        "title": "Made in Abyss",
+        "posterUrl": "/assets/anime/madeinabyss.jpg",
+        "category": "Dark Fantasy",
+        "genres": [
+          "Adventure",
+          "Dark Fantasy",
+          "Mystery"
+        ],
+        "demographic": "Seinen",
+        "synopsis": "Two explorers descend into mysterious abyss.",
+        "whyOnList": "Incredible world-building, unsettling exploration.",
+        "watchlistStatus": "Candidate · Pending Confirmation"
+      },
+      {
+        "id": "disc-05",
+        "title": "Claymore",
+        "posterUrl": "/assets/anime/claymore.jpg",
+        "category": "Dark Fantasy",
+        "genres": [
+          "Dark Fantasy",
+          "Action",
+          "Horror"
+        ],
+        "demographic": "Shonen",
+        "synopsis": "Claymore warriors fight monsters, struggle with their power.",
+        "whyOnList": "Dark, sword combat, morally complex.",
+        "watchlistStatus": "Candidate · Pending Confirmation"
+      },
+      {
+        "id": "disc-06",
+        "title": "Chainsaw Man",
+        "posterUrl": "/assets/anime/csm.png",
+        "category": "Action / Combat",
+        "genres": [
+          "Action",
+          "Dark Fantasy",
+          "Horror",
+          "Supernatural"
+        ],
+        "demographic": "Shonen",
+        "synopsis": "Boy becomes devil-hybrid, enters violent contracts.",
+        "whyOnList": "Wild action, beyond normal fighting anime.",
+        "watchlistStatus": "Candidate · Pending Confirmation"
+      },
+      {
+        "id": "disc-07",
+        "title": "Jujutsu Kaisen",
+        "posterUrl": "/assets/anime/jjk.jpg",
+        "category": "Action / Combat",
+        "genres": [
+          "Action",
+          "Supernatural",
+          "Dark Fantasy"
+        ],
+        "demographic": "Shonen",
+        "synopsis": "Student swallows cursed object, enters curse world.",
+        "whyOnList": "Exceptional fights, abilities, character dynamics.",
+        "watchlistStatus": "Candidate · Pending Confirmation"
+      },
+      {
+        "id": "disc-08",
+        "title": "Hunter x Hunter (2011)",
+        "posterUrl": "/assets/anime/hxh2011.png",
+        "category": "Action / Combat",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Fantasy"
+        ],
+        "demographic": "Shonen",
+        "synopsis": "Boy enters hunter world, complex challenges.",
+        "whyOnList": "Best power-system, strategic battles.",
+        "watchlistStatus": "Candidate · Pending Confirmation"
+      },
+      {
+        "id": "disc-09",
+        "title": "Samurai Champloo",
+        "posterUrl": "/assets/anime/samuraichamploo.png",
+        "category": "Action / Combat",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Historical"
+        ],
+        "demographic": "Seinen",
+        "synopsis": "Three companions search for mysterious samurai.",
+        "whyOnList": "Samurai + hip-hop + music + story.",
+        "watchlistStatus": "Candidate · Pending Confirmation"
+      },
+      {
+        "id": "disc-10",
+        "title": "Golden Kamuy",
+        "posterUrl": "/assets/anime/goldenkamuy.jpg",
+        "category": "Action / Combat",
+        "genres": [
+          "Adventure",
+          "Historical",
+          "Action",
+          "Mystery"
+        ],
+        "demographic": "Seinen",
+        "synopsis": "Ex-soldier hunts hidden gold in N. Japan.",
+        "whyOnList": "History, survival, humour, great characters.",
+        "watchlistStatus": "Candidate · Pending Confirmation"
+      },
+      {
+        "id": "disc-11",
+        "title": "Pluto",
+        "posterUrl": "/assets/anime/pluto.png",
+        "category": "Psych / Mystery",
+        "genres": [
+          "Sci-Fi",
+          "Mystery",
+          "Psychological",
+          "Drama"
+        ],
+        "demographic": "Seinen",
+        "synopsis": "Detective probes murders of robots + humans.",
+        "whyOnList": "Philosophy, humanity questions.",
+        "watchlistStatus": "Candidate · Pending Confirmation"
+      },
+      {
+        "id": "disc-12",
+        "title": "Psycho-Pass",
+        "posterUrl": "/assets/anime/psychopass.jpg",
+        "category": "Psych / Mystery",
+        "genres": [
+          "Psychological",
+          "Sci-Fi",
+          "Crime",
+          "Thriller"
+        ],
+        "demographic": "Seinen",
+        "synopsis": "Society measures criminal potential.",
+        "whyOnList": "Justice, freedom, surveillance, morality.",
+        "watchlistStatus": "Candidate · Pending Confirmation"
+      },
+      {
+        "id": "disc-13",
+        "title": "Heavenly Delusion",
+        "posterUrl": "/assets/anime/heavenlydelusion.jpg",
+        "category": "Psych / Mystery",
+        "genres": [
+          "Sci-Fi",
+          "Mystery",
+          "Adventure",
+          "Psychological"
+        ],
+        "demographic": "Seinen",
+        "synopsis": "Two travellers seek Heaven in ruined world.",
+        "whyOnList": "Intriguing mysteries, unpredictable.",
+        "watchlistStatus": "Candidate · Pending Confirmation"
+      },
+      {
+        "id": "disc-14",
+        "title": "Parasyte: The Maxim",
+        "posterUrl": "/assets/anime/parasyte.jpg",
+        "category": "Psych / Mystery",
+        "genres": [
+          "Horror",
+          "Sci-Fi",
+          "Psychological",
+          "Action"
+        ],
+        "demographic": "Seinen",
+        "synopsis": "Alien tries to take over boy's body.",
+        "whyOnList": "Survival, identity, what makes us human.",
+        "watchlistStatus": "Candidate · Pending Confirmation"
+      },
+      {
+        "id": "disc-15",
+        "title": "The Promised Neverland",
+        "posterUrl": "/assets/anime/promisedneverland.jpg",
+        "category": "Psych / Mystery",
+        "genres": [
+          "Psychological",
+          "Mystery",
+          "Thriller",
+          "Horror"
+        ],
+        "demographic": "Shonen",
+        "synopsis": "Orphans discover horrifying secret.",
+        "whyOnList": "Suspense, smart strategies, high stakes.",
+        "watchlistStatus": "Candidate · Pending Confirmation"
+      },
+      {
+        "id": "disc-16",
+        "title": "86 Eighty-Six",
+        "posterUrl": "/assets/anime/eightysix.jpg",
+        "category": "Drama / Emotional",
+        "genres": [
+          "Sci-Fi",
+          "Military",
+          "Drama",
+          "Action"
+        ],
+        "demographic": "Seinen",
+        "synopsis": "Young soldiers fight war society ignores.",
+        "whyOnList": "Discrimination, war, sacrifice, dignity.",
+        "watchlistStatus": "Candidate · Pending Confirmation"
+      },
+      {
+        "id": "disc-17",
+        "title": "Violet Evergarden",
+        "posterUrl": "/assets/anime/violetevergarden.png",
+        "category": "Drama / Emotional",
+        "genres": [
+          "Drama",
+          "Coming-of-Age",
+          "Slice of Life"
+        ],
+        "demographic": "Shojo",
+        "synopsis": "Ex-soldier learns emotions writing letters.",
+        "whyOnList": "Beautiful animation, deeply moving.",
+        "watchlistStatus": "Candidate · Pending Confirmation"
+      },
+      {
+        "id": "disc-18",
+        "title": "Frieren: Beyond Journey's End",
+        "posterUrl": "/assets/anime/frieren.jpg",
+        "category": "Drama / Emotional",
+        "genres": [
+          "Fantasy",
+          "Adventure",
+          "Drama"
+        ],
+        "demographic": "Shonen",
+        "synopsis": "Elf mage reflects on time + friendship.",
+        "whyOnList": "Thoughtful, world-building, life perspective.",
+        "watchlistStatus": "Candidate · Pending Confirmation"
+      },
+      {
+        "id": "disc-19",
+        "title": "To Your Eternity",
+        "posterUrl": "/assets/anime/toyoureternity.jpg",
+        "category": "Drama / Emotional",
+        "genres": [
+          "Fantasy",
+          "Adventure",
+          "Drama"
+        ],
+        "demographic": "Shonen",
+        "synopsis": "Immortal being learns humanity through lives.",
+        "whyOnList": "Existence, loss, growth.",
+        "watchlistStatus": "Candidate · Pending Confirmation"
+      },
+      {
+        "id": "disc-20",
+        "title": "The Apothecary Diaries",
+        "posterUrl": "/assets/anime/apothecarydiaries.jpg",
+        "category": "Drama / Emotional",
+        "genres": [
+          "Historical",
+          "Mystery",
+          "Drama"
+        ],
+        "demographic": "Josei",
+        "synopsis": "Clever apothecary solves palace mysteries.",
+        "whyOnList": "Smart mysteries, great characters, historical.",
+        "watchlistStatus": "Candidate · Pending Confirmation"
+      }
+    ],
+    "pendingSuggestions": [],
+    "communityVotes": [],
+    "communityRankSnapshots": {
+      "week": {
+        "col-01": 1
+      },
+      "month": {
+        "col-01": 1
+      },
+      "year": {
+        "col-01": 1
+      },
+      "all_time": {
+        "col-01": 1
+      }
+    },
+    "stickerChatMessages": [],
+    "animeComments": [
+      {
+        "id": "cmt-1795450724767-hpi4",
+        "animeId": "col-09",
+        "voterId": "3cd6c57a-9986-4d9c-b333-85a50b6d8b05",
+        "authorName": "Spark!!!",
+        "text": "Super tense Anime",
+        "createdAt": "2026-11-23T16:18:44.767Z"
+      }
+    ],
+    "rewardProfiles": {
+      "3cd6c57a-9986-4d9c-b333-85a50b6d8b05": {
+        "voterId": "3cd6c57a-9986-4d9c-b333-85a50b6d8b05",
+        "displayName": "Spark!!!",
+        "totalXp": 10,
+        "chatCount": 0,
+        "commentCount": 1,
+        "suggestCount": 0,
+        "voteCount": 0,
+        "votedAnimeIds": [],
+        "chatDays": [],
+        "currentStreak": 0,
+        "longestStreak": 0,
+        "badges": [],
+        "xpEvents": [
+          {
+            "amount": 10,
+            "source": "comment",
+            "at": "2026-11-23T16:18:44.768Z"
+          }
+        ],
+        "updatedAt": "2026-11-23T16:18:44.768Z"
+      }
+    }
+  }
+}

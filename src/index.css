@@ -1,0 +1,152 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-canvas: #faf6f1;
+    --bg-subtle: #f5f0ea;
+    --border-hairline: #e4e4e7;
+    --ink-primary: #09090b;
+    --ink-secondary: #52525b;
+    --ink-muted: #71717a;
+
+    /* Smart World Accents */
+    --accent-indigo: #4f46e5;
+    --accent-cyan: #06b6d4;
+    --accent-rose: #e11d48;
+    --accent-emerald: #10b981;
+    --accent-violet: #7c3aed;
+    --accent-cobalt: #2563eb;
+    --accent-amber: #f59e0b;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 84px;
+    font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", sans-serif;
+    background-color: var(--bg-canvas);
+    color: var(--ink-primary);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    margin: 0;
+    overflow-x: clip;
+    background-color: #faf6f1;
+    color: #09090b;
+  }
+
+  h1, h2, h3, h4 {
+    text-wrap: balance;
+    letter-spacing: -0.03em;
+  }
+}
+
+.font-editorial {
+  font-family: "Fraunces", Georgia, serif;
+}
+
+.font-data {
+  font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Crisp minimalist hairline surfaces with subtle light-studio depth */
+.surface-card {
+  background-color: #ffffff;
+  border: 1px solid #e4e4e7;
+  transition:
+    border-color 0.22s cubic-bezier(0.22, 1, 0.36, 1),
+    box-shadow 0.25s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.25s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.surface-card:hover {
+  border-color: #cbd5e1;
+  box-shadow: 0 18px 40px -18px rgba(79, 70, 229, 0.14);
+}
+
+.surface-subtle {
+  background-color: #f8fafc;
+  border: 1px solid #e2e8f0;
+}
+
+/* Soft studio atmospheric backdrop for light-futuristic sections */
+.studio-wash-hero {
+  background-image:
+    radial-gradient(640px 360px at 82% 18%, rgba(79, 70, 229, 0.08), transparent 70%),
+    radial-gradient(520px 320px at 14% 24%, rgba(6, 182, 212, 0.08), transparent 70%);
+}
+
+.studio-wash-anime {
+  background-image: radial-gradient(680px 340px at 90% 8%, rgba(225, 29, 72, 0.05), transparent 70%);
+}
+
+.studio-wash-music {
+  background-image:
+    radial-gradient(620px 320px at 10% 12%, rgba(16, 185, 129, 0.055), transparent 70%),
+    radial-gradient(560px 300px at 90% 18%, rgba(124, 58, 237, 0.055), transparent 70%);
+}
+
+.studio-wash-cars {
+  background-image:
+    radial-gradient(640px 320px at 85% 12%, rgba(37, 99, 235, 0.055), transparent 70%),
+    radial-gradient(480px 260px at 15% 22%, rgba(245, 158, 11, 0.045), transparent 70%);
+}
+
+.studio-wash-travel {
+  background-image: radial-gradient(680px 360px at 18% 12%, rgba(8, 145, 178, 0.065), transparent 70%);
+}
+
+/* Translucent Apple-style top bar material */
+.apple-material {
+  background-color: rgba(255, 255, 255, 0.84);
+  backdrop-filter: saturate(180%) blur(20px);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+}
+
+/* Clean custom scrollbar for horizontal reels */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Seamless horizontal nav bar pattern marquee (25s per 7-tile loop) */
+@keyframes navPatternMarquee {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(-25%, 0, 0);
+  }
+}
+
+.nav-marquee-track {
+  animation: navPatternMarquee 25s linear infinite;
+  will-change: transform;
+}
+
+.nav-bar-hover-pause:hover .nav-marquee-track {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .surface-card:hover {
+    transform: none;
+  }
+
+  .nav-marquee-track {
+    animation: none;
+  }
+}
